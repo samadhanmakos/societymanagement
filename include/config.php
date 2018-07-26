@@ -20,4 +20,6 @@ include('dbFunctions.php');
     if($records){ generateOrderNo(); }else{ return $orderno; }
     
 }*/
+
+// comment by samadhan
 ?>
